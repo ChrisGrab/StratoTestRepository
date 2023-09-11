@@ -1,2 +1,0 @@
-Line1: Some Content
-Line2: Some More Content
